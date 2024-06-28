@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "336861865939",
+    "project_id": "zaffy-lab07-40-ad",
+    "storage_bucket": "zaffy-lab07-40-ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336861865939:android:8f86963f749c77254e3126",
+        "android_client_info": {
+          "package_name": "com.example.bsce20040_lab07"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgUNKdN91QnKjSnNFHLTTo4d8Rusdb9Go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
